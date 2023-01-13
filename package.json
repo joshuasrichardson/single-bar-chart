@@ -1,6 +1,6 @@
 {
   "name": "single-bar-chart",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -39,8 +39,8 @@
     ]
   },
   "description": "A bar chart that shows all values on a single bar.",
-  "main": "index.js",
-  "repository": "https://github.com/joshuasrichardson",
+  "main": "src/index.js",
+  "repository": "https://github.com/joshuasrichardson/single-bar-chart",
   "author": "Joshua Richardson <joshuasrichardson1@gmail.com>",
   "license": "MIT"
 }
