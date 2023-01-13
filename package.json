@@ -1,6 +1,6 @@
 {
   "name": "single-bar-chart",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "private": false,
   "dependencies": {
     "@babel/preset-react": "^7.18.6",
@@ -43,7 +43,7 @@
     ]
   },
   "description": "A bar chart that shows all values on a single bar.",
-  "main": "src/index.js",
+  "main": "dist/bundle.js",
   "repository": "https://github.com/joshuasrichardson/single-bar-chart",
   "author": "Joshua Richardson <joshuasrichardson1@gmail.com>",
   "license": "MIT"
