@@ -14,6 +14,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "uuid": "^9.0.0",
     "web-vitals": "^2.1.4",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
@@ -43,7 +44,7 @@
     ]
   },
   "description": "A bar chart that shows all values on a single bar.",
-  "main": "dist/bundle.js",
+  "main": "src/index.js",
   "repository": "https://github.com/joshuasrichardson/single-bar-chart",
   "author": "Joshua Richardson <joshuasrichardson1@gmail.com>",
   "license": "MIT"
